@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EnglishBattle", "EnglishBattle\EnglishBattle.vbproj", "{31F9173A-0295-4522-8703-29A9DAF3C6E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishBattle.Data", "EnglishBattle.Data\EnglishBattle.Data.csproj", "{918A8A60-108A-4B13-84AF-75C34FFEA873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F9173A-0295-4522-8703-29A9DAF3C6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F9173A-0295-4522-8703-29A9DAF3C6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F9173A-0295-4522-8703-29A9DAF3C6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F9173A-0295-4522-8703-29A9DAF3C6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918A8A60-108A-4B13-84AF-75C34FFEA873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918A8A60-108A-4B13-84AF-75C34FFEA873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918A8A60-108A-4B13-84AF-75C34FFEA873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918A8A60-108A-4B13-84AF-75C34FFEA873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {246626C7-245D-4EB4-BFD3-918B403B3778}
+	EndGlobalSection
+EndGlobal
