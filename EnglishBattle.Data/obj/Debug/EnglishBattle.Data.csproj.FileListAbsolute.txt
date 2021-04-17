@@ -1,0 +1,12 @@
+C:\xampp\htdocs\EnglishBattle\EnglishBattle\EnglishBattle.Data\bin\Debug\EnglishBattle.Data.dll.config
+C:\xampp\htdocs\EnglishBattle\EnglishBattle\EnglishBattle.Data\bin\Debug\EnglishBattle.Data.dll
+C:\xampp\htdocs\EnglishBattle\EnglishBattle\EnglishBattle.Data\bin\Debug\EnglishBattle.Data.pdb
+C:\xampp\htdocs\EnglishBattle\EnglishBattle\EnglishBattle.Data\bin\Debug\EntityFramework.dll
+C:\xampp\htdocs\EnglishBattle\EnglishBattle\EnglishBattle.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\xampp\htdocs\EnglishBattle\EnglishBattle\EnglishBattle.Data\bin\Debug\EntityFramework.xml
+C:\xampp\htdocs\EnglishBattle\EnglishBattle\EnglishBattle.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\xampp\htdocs\EnglishBattle\EnglishBattle\EnglishBattle.Data\obj\Debug\EnglishBattle.Data.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\EnglishBattle\EnglishBattle\EnglishBattle.Data\obj\Debug\EnglishBattle.Data.csproj.CopyComplete
+C:\xampp\htdocs\EnglishBattle\EnglishBattle\EnglishBattle.Data\obj\Debug\EnglishBattle.Data.dll
+C:\xampp\htdocs\EnglishBattle\EnglishBattle\EnglishBattle.Data\obj\Debug\EnglishBattle.Data.pdb
+C:\xampp\htdocs\EnglishBattle\EnglishBattle\EnglishBattle.Data\obj\Debug\EnglishBattle.Data.csprojAssemblyReference.cache
